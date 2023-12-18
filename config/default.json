@@ -1,0 +1,4 @@
+{
+    "serverPort":5000,
+    "dbUrl":"mongodb+srv://mukhinaur:MidisMemory2023@cluster0.hbqdfss.mongodb.net/?retryWrites=true&w=majority"
+}
